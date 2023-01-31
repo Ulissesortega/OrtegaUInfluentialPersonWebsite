@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* NavBarFormat */
+.nvf{
+    background-color: blue;
+    border-style: solid;
+    border-color: white;
+}
+
+body{
+    background-image: url('../Assets/ElonMusk.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    height: 100vh;
+}
+
+.BGimage{
+    background-image: url('../Assets/ElonMusk.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    height: 100vh;
+}
+/* Text Format Main Page */
+.tfmp{
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.tfmp1{
+    color: white;
+    font-size: 90px;
+}
+
+/* BIOGRAPHY CSS */
+.titleformat{
+ color: red;
+ font-size: 450%;
+}
+
+.textformat{
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.176);
+    padding: 1rem;
+   }
+   
